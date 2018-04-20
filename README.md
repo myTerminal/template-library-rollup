@@ -30,7 +30,7 @@ In this mode, Rollup.js generates source-maps for bundled JavaScript resources t
 In this mode, Rollup.js generates source-maps for bundled JavaScript resources to simplify debugging of JavaScript in the web-browser.
  - `npm run build` to run Rollup.js in production mode  
 In this mode, Rollup.js minifies the JavaScript bundles and there are no source-maps created.
- - `npm run lint` to run jscs and jshint on all JavaScript source files.
+ - `npm run lint` to run ESLint on all JavaScript source files.
 
 ## To-Do
 
