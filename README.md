@@ -24,10 +24,10 @@ A template to create front-end libraries with [Rollup.js](https://rollupjs.org) 
 
  - `npm run debug` to run Rollup.js in development mode.  
 In this mode, Rollup.js generates source-maps for bundled JavaScript resources to simplify debugging of JavaScript in the web-browser.
- - `npm run develop` to run Rollup.js in development mode and keep watching for file changes within source.  
+ - `npm run develop` to run Rollup.js in development mode and keep watching for file changes within the source.  
 In this mode, Rollup.js generates source-maps for bundled JavaScript resources to simplify debugging of JavaScript in the web-browser.
  - `npm run build` to run Rollup.js in production mode  
-In this mode, Rollup.js minifies the JavaScript bundles and there are no source-maps created.
+In this mode, Rollup.js minifies the JavaScript bundles and there is no source-map created.
  - `npm run lint` to run ESLint on all JavaScript source files.
 
 ## To-Do
