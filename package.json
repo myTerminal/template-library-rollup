@@ -29,6 +29,7 @@
     "babel-core": "6.26.3",
     "babel-preset-env": "1.6.1",
     "babelrc-rollup": "3.0.0",
+    "effortless-css": "0.10.1",
     "eslint": "4.19.1",
     "eslint-config-airbnb": "16.1.0",
     "eslint-plugin-import": "2.11.0",
