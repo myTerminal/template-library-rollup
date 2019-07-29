@@ -1,9 +1,5 @@
 # template-library-rollup
 
-[![Code Climate](https://codeclimate.com/github/myTerminal/template-library-rollup.png)](https://codeclimate.com/github/myTerminal/template-library-rollup)  
-[![Dependency Status](https://david-dm.org/myTerminal/template-library-rollup.svg)](https://david-dm.org/myTerminal/template-library-rollup)
-[![devDependency Status](https://david-dm.org/myTerminal/template-library-rollup/dev-status.svg)](https://david-dm.org/myTerminal/template-library-rollup#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/template-library-rollup/peer-status.svg)](https://david-dm.org/myTerminal/template-library-rollup#info=peerDependencies)  
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A template to create front-end libraries with [Rollup.js](https://rollupjs.org) as the module-bundler [in-progress]
