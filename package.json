@@ -1,8 +1,8 @@
 {
-  "name": "template-library",
+  "name": "template-web-library",
   "version": "0.9.0",
-  "description": "template-library",
-  "main": "build/scripts/template-library.js",
+  "description": "template-web-library",
+  "main": "build/scripts/template-web-library.js",
   "scripts": {
     "debug": "rollup -c",
     "develop": "rollup -c -w",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:myTerminal/template-library-rollup.git"
+    "url": "git@github.com:myTerminal/template-web-library-rollup.git"
   },
   "bugs": {
-    "url": "https://github.com/myTerminal/template-library-rollup/issues"
+    "url": "https://github.com/myTerminal/template-web-library-rollup/issues"
   },
-  "homepage": "https://github.com/myTerminal/template-library-rollup#readme",
+  "homepage": "https://github.com/myTerminal/template-web-library-rollup#readme",
   "keywords": [
     "template"
   ],

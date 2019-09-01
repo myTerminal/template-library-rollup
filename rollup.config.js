@@ -3,11 +3,11 @@ import babelrc from 'babelrc-rollup';
 import less from 'rollup-plugin-less';
 
 export default {
-    input: 'src/scripts/template-library.js',
+    input: 'src/scripts/template-web-library.js',
     output: {
-        file: 'build/scripts/template-library.js',
+        file: 'build/scripts/template-web-library.js',
         format: 'umd',
-        name: 'templateLibrary'
+        name: 'templateWebLibrary'
     },
     plugins: [
         babel(babelrc()),
