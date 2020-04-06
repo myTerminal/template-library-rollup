@@ -3,6 +3,9 @@
   "version": "0.9.0",
   "description": "template-web-library",
   "main": "build/template-web-library.js",
+  "files": [
+    "/build"
+  ],
   "scripts": {
     "debug": "rollup -c",
     "develop": "rollup -c -w",
